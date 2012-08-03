@@ -22,7 +22,7 @@
 }
 ::-webkit-scrollbar-button {
 	background-color:#f0f0f0;
-	background-image:url(https://secure.wlxrs.com/TwD5MdAhS6ac4ljcp19-XxU36wSRIFz5IDik2XjELsmnMduhPw7!IvrCGKHb34GKM0I8yQJ8F1wic6Xo9Iz1VQ/Base/16.4.9814/hig/img/controls.png);
+	background-image:url(http://malash.googlecode.com/svn/trunk/win8-scrollbar/controls.png);
 	background-repeat:no-repeat
 }
 ::-webkit-scrollbar-button:vertical {
